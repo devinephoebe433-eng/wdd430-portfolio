@@ -1,0 +1,31 @@
+<svg width="360" height="520" viewBox="0 0 360 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrated professional woman holding a notebook</title>
+  <desc id="desc">A friendly editorial illustration in blush, plum, rose, cream, lavender, and gold.</desc>
+  <defs>
+    <linearGradient id="hair" x1="111" y1="55" x2="250" y2="203" gradientUnits="userSpaceOnUse"><stop stop-color="#4A2948"/><stop offset="1" stop-color="#743D68"/></linearGradient>
+    <linearGradient id="blouse" x1="90" y1="253" x2="276" y2="397" gradientUnits="userSpaceOnUse"><stop stop-color="#F7DCE8"/><stop offset="1" stop-color="#E9B7CD"/></linearGradient>
+    <linearGradient id="skirt" x1="93" y1="355" x2="272" y2="489" gradientUnits="userSpaceOnUse"><stop stop-color="#743D68"/><stop offset="1" stop-color="#4D2A50"/></linearGradient>
+  </defs>
+  <ellipse cx="184" cy="496" rx="112" ry="16" fill="#EAD5E1" opacity=".65"/>
+  <path d="M106 137C87 100 103 48 151 29C199 10 252 39 266 85C278 124 258 173 224 189L132 180C121 164 113 150 106 137Z" fill="url(#hair)"/>
+  <path d="M131 87C137 58 164 43 194 49C224 55 240 80 233 116L221 180C197 199 160 194 137 170L131 87Z" fill="#C98272"/>
+  <path d="M139 92C145 66 169 53 195 58C217 62 229 80 228 103C206 96 187 82 173 70C165 87 151 97 139 104V92Z" fill="#4A2948"/>
+  <path d="M158 123C164 128 171 128 177 124" stroke="#743D68" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="158" cy="108" r="3" fill="#382536"/><circle cx="207" cy="108" r="3" fill="#382536"/>
+  <path d="M145 154C160 168 194 172 216 153" stroke="#B25D72" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="131" cy="142" r="8" fill="#B48652"/><circle cx="225" cy="137" r="8" fill="#B48652"/>
+  <path d="M124 202C143 185 210 184 237 205L282 370C254 397 111 399 76 367L124 202Z" fill="url(#blouse)"/>
+  <path d="M153 195L177 247L197 195" stroke="#D95D8B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M126 219C101 244 87 291 76 342" stroke="#C98272" stroke-width="23" stroke-linecap="round"/>
+  <path d="M238 215C258 242 270 277 278 319" stroke="#C98272" stroke-width="23" stroke-linecap="round"/>
+  <path d="M101 346C87 360 84 382 101 393C118 404 135 391 137 370" fill="#C98272"/>
+  <path d="M267 307C281 300 296 307 299 322C301 339 287 351 272 344" fill="#C98272"/>
+  <path d="M97 353L161 377L148 443H104L97 353Z" fill="#EEE5F4"/>
+  <path d="M153 379L265 365L283 478C236 501 153 503 96 478L108 400L153 379Z" fill="url(#skirt)"/>
+  <path d="M154 380C173 391 208 394 238 379" stroke="#D95D8B" stroke-width="4" opacity=".75"/>
+  <path d="M122 474C108 488 103 505 111 512H171C177 501 168 484 154 474" fill="#382536"/>
+  <path d="M231 473C218 486 214 503 221 512H281C286 500 275 484 263 472" fill="#382536"/>
+  <rect x="245" y="291" width="62" height="82" rx="7" transform="rotate(10 245 291)" fill="#FFF8FB" stroke="#743D68" stroke-width="4"/>
+  <path d="M258 310L292 316M256 324L282 329M254 338L282 343" stroke="#D95D8B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M123 202C136 213 153 219 174 220C193 221 218 214 237 203" stroke="#FFF8FB" stroke-width="3" opacity=".8"/>
+</svg>
