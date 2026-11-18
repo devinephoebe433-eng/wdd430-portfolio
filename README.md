@@ -2,6 +2,8 @@
 
 A responsive TypeScript portfolio built with the Next.js App Router and Tailwind CSS for the WDD 430 course assignment.
 
+The visual direction uses a polished feminine editorial system: blush, plum, rose, and lavender accents; serif display typography; soft rounded cards; and subtle decorative shapes balanced with accessible contrast and clear information hierarchy.
+
 ## Routes
 
 - `/` — portfolio home page with two project case studies
@@ -10,7 +12,7 @@ A responsive TypeScript portfolio built with the Next.js App Router and Tailwind
 
 ## Custom component
 
-`components/SkillCard.tsx` accepts a `skill` and `detail` prop and displays a concise capability card on the About page.
+`components/SkillCard.tsx` accepts a `skill` and `detail` prop and displays a capability card on the About page.
 
 ## Run locally
 
