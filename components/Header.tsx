@@ -5,8 +5,8 @@ export default function Header() {
     <header className="border-b border-line/80 bg-cream/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-5 lg:px-8">
         <Link href="/" className="focus-ring group flex items-center gap-3" aria-label="Go to portfolio home">
-          <span className="flex h-10 w-10 items-center justify-center rounded-full bg-plum font-display text-xl text-white shadow-soft transition-transform group-hover:rotate-6">P</span>
-          <span className="text-sm font-bold uppercase tracking-[0.18em] text-plum">Phoebe / Portfolio</span>
+          <span className="flex h-10 w-10 items-center justify-center rounded-full bg-plum font-display text-xl text-white shadow-soft transition-transform group-hover:rotate-6">D</span>
+          <span className="text-sm font-bold uppercase tracking-[0.12em] text-plum">Devine Phoebe</span>
         </Link>
         <nav aria-label="Primary navigation">
           <ul className="flex items-center gap-2 rounded-full border border-line bg-white/70 p-1 text-sm font-bold text-plum sm:gap-3">
