@@ -31,3 +31,6 @@ a { color: inherit; }
 
 @keyframes float-soft { 0%, 100% { transform: translateY(0) rotate(-8deg); } 50% { transform: translateY(-7px) rotate(-4deg); } }
 .float-soft { animation: float-soft 5s ease-in-out infinite; }
+
+@keyframes lady-float { 0%, 100% { transform: translateY(0) rotate(1deg); } 50% { transform: translateY(-10px) rotate(-1deg); } }
+.lady-float { animation: lady-float 6s ease-in-out infinite; transform-origin: bottom center; }

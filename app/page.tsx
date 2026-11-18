@@ -26,10 +26,11 @@ export default function Home() {
             <p className="mt-8 max-w-xl text-lg leading-8 text-ink/70">A professional portfolio for thoughtful interfaces, practical systems, and the details that make digital work feel personal.</p>
             <div className="mt-10 flex items-center gap-4 font-mono text-xs uppercase tracking-wider text-plum"><span className="h-px w-12 bg-rose" /> Scroll to explore</div>
           </div>
-          <div className="relative flex min-h-[280px] items-center justify-center lg:min-h-0">
+          <div className="relative flex min-h-[330px] items-center justify-center lg:min-h-0">
             <div className="petal float-soft absolute right-4 top-2 h-44 w-44 bg-blush/80 sm:h-56 sm:w-56" aria-hidden="true" />
             <div className="petal absolute bottom-6 left-6 h-28 w-28 rotate-12 bg-lavender/90" aria-hidden="true" />
-            <div className="relative z-10 max-w-xs rounded-[2rem] border border-white bg-white/80 p-7 shadow-soft backdrop-blur">
+            <img src="/manus-storage/async-images/92r8vwUKdMDI8HencyOmE1/image-1.webp" alt="Illustrated professional woman holding a notebook" className="lady-float absolute bottom-0 right-0 z-20 h-[21rem] w-auto max-w-[72%] object-contain drop-shadow-[0_18px_18px_rgba(116,61,104,.16)] sm:h-[24rem]" />
+            <div className="relative z-10 mr-20 mt-10 max-w-xs rounded-[2rem] border border-white bg-white/80 p-7 shadow-soft backdrop-blur sm:mr-28">
               <div className="mb-8 flex items-center justify-between"><span className="font-mono text-[10px] uppercase tracking-[0.22em] text-plum">Currently learning</span><span className="text-rose">♡</span></div>
               <p className="font-display text-3xl leading-tight">Turning ideas into useful, beautiful things.</p>
               <div className="mt-7 flex items-center gap-2 text-xs font-bold text-gold"><span className="h-2 w-2 rounded-full bg-rose" /> Available for the next chapter</div>
