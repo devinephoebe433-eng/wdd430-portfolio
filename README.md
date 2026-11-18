@@ -26,4 +26,4 @@ Then open [http://localhost:3000](http://localhost:3000).
 ## Deployment
 
 - GitHub: https://github.com/devinephoebe433-eng/wdd430-portfolio
-- Vercel: add the deployed URL here after importing the repository into Vercel.
+- Vercel: https://wdd430-portfolio-one-navy.vercel.app
